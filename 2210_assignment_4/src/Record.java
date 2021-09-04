@@ -9,7 +9,7 @@ public class Record {
 
 	// Attribute Declaration
 	private Pair key;
-	private String data; // should it hold an empty string??
+	private String data; 
 
 	/**
 	 * Constructor for the class
