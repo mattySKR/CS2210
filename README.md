@@ -11,11 +11,11 @@ The study of data structures and algorithms is carried out within an object-orie
 When implementations are considered, the Java programming language is used. Topics covered in
 this course include:
 
-• analysis of algorithms
-• dictionaries, hash tables
-• trees, binary search trees, AVL trees, multi-way search trees, (2,4)-trees, B-trees
-• graphs, graph traversals, graph algorithms
-• sorting
+- analysis of algorithms
+- dictionaries, hash tables
+- trees, binary search trees, AVL trees, multi-way search trees, (2,4)-trees, B-trees
+- graphs, graph traversals, graph algorithms
+- sorting
 
 # Assignments
 
