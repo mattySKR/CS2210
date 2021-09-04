@@ -318,9 +318,7 @@ public class BoardGame {
 				}
 			}
 		}
-		return false; // !!!!! I know that the isDraw method is obviously not made the right away as I
-						// was struggling a little bit with the logic. Besides that, all other methods
-						// should be correct !!!!!!!!
+		return false; 
 	}
 
 	/**
