@@ -1,4 +1,4 @@
-# Description
+# Brief Description
 
 For this assignment I have made a program where a bus finds a path
 from point A to point B based on the chosen map. Maps vary in 
